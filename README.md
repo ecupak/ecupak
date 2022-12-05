@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Erik Cupak!
-- 👀 I’m interested in learning software development and the languages, tools, and systems involved.
-- 🌱 I’m currently enrolled in IBM's full stack development course.
+- 👀 I’m interested in learning software/game development and the languages, tools, and systems involved.
 - 💞️ I’m looking to collaborate on ... not sure yet!
 - 📫 How to reach me? I'll let you know when I'm ready.
 
